@@ -1,0 +1,27 @@
+{
+  "name": "movie-mania",
+  "version": "1.0.0",
+  "description": "A movie mania is deshboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omer-farouq/movie-mania.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Tailwind",
+    "CSS"
+  ],
+  "author": "Omer Farouq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omer-farouq/movie-mania/issues"
+  },
+  "homepage": "https://github.com/omer-farouq/movie-mania#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
